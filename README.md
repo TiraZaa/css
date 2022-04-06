@@ -12,21 +12,6 @@ p  {
     font-family: courier;
     font-size: 160%;
 }
-td {
-   text-align: right;
-}
-    .google-visualization-table-th {
-   text-align: right;
-}
-th {
-   color: red!important;
-}
-.google-visualization-table div {
-   height: 300px;
-}
-.google-visualization-table-th:nth-child(4)  {
-width: 400px;
-}
 </style>
 </head>
 <body>
